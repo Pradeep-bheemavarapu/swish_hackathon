@@ -11,5 +11,5 @@ void main()
         amt += ary[0];
         ary[0] = ((ary[1] * ary[0]) / 100);
     }
-    printf("%d",amt-1);
+    printf("%d",amt);
 }
